@@ -22,12 +22,12 @@ $ npm run start
 
 - app name
 ```bash
-totp\\src\\app-name.constant.ts
+totp\src\app-name.constant.ts
 ```
 
 - generated secret (after run)
 ```bash
-totp\\speakeasy-secret.json
+totp\speakeasy-secret.json
 ```
 
 ## Packages used
