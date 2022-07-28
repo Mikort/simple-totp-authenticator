@@ -30,7 +30,7 @@ totp\src\app-name.constant.ts
 totp\speakeasy-secret.json
 ```
 
-## Packages used
+## Packages used for totp
 
 - speakeasy
 - @types/speakeasy
