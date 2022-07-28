@@ -41,5 +41,5 @@ totp\speakeasy-secret.json
 
 | method + URL                    | description                            |
 |---------------------------------|----------------------------------------|
-| GET localhost:3000/qrcode       | (get qrcode to scan)                   |
-| GET localhost:3000/verify/:code | (put code from authenticator to check) |
+| GET localhost:3000/qrcode       | get qrcode to scan                     |
+| GET localhost:3000/verify/:code | put code from authenticator to check   |
